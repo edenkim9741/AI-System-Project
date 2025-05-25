@@ -1,0 +1,3 @@
+[submodule "shap-e"]
+	path = shap-e
+	url = https://github.com/edenkim9741/shap-e.git
