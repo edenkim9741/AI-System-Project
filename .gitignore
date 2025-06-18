@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.pkl
+*.pth
+
+3D-FRONT/
+shap_e_model_cache/

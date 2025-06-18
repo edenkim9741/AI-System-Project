@@ -42,8 +42,6 @@ RUN conda create -n aisystem -c conda-forge -y \
     && conda clean -afy 
 
 RUN /bin/bash -c "source activate aisystem && \
-    cd /workspace/shap-e && \
-    pip install -e . && \
     pip install -r requirements.txt " 
 
 RUN echo "source activate aisystem" >> ~/.bashrc

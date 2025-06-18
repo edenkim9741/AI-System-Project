@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{todayhouse}
+{오늘의집}.
+\newblock 오늘의 집.
+\newblock \url{https://ohou.se}.
+\newblock Accessed: 2025-06-18.
+
+\bibitem{unsplash}
+{Unsplash}.
+\newblock Unsplash.
+\newblock \url{https://unsplash.com}.
+\newblock Accessed: 2025-06-18.
+
+\bibitem{pexels}
+{Pexels}.
+\newblock Pexels.
+\newblock \url{https://www.pexels.com}.
+\newblock Accessed: 2025-06-18.
+
+\bibitem{pixabay}
+{Pixabay}.
+\newblock Pixabay.
+\newblock \url{https://pixabay.com}.
+\newblock Accessed: 2025-06-18.
+
+\bibitem{fu20203dfront}
+Huan Fu, Bowen Cai, Lin Gao, Lingxiao Zhang, Cao Li, Qixun Zeng, Chengyue Sun, Yiyun Fei, Yu~Zheng, Ying Li, Yi~Liu, Peng Liu, Lin Ma, Le~Weng, Xiaohang Hu, Xin Ma, Qian Qian, Rongfei Jia, Binqiang Zhao, and Hao Zhang.
+\newblock 3d-front: 3d furnished rooms with layouts and semantics.
+\newblock {\em arXiv preprint arXiv:2011.09127}, 2020.
+
+\bibitem{touvron2024llama3}
+Hugo Touvron, Louis Martin, Kevin~El Boukkouri, et~al.
+\newblock Llama 3: Open foundation and instruction models.
+\newblock \url{https://ai.meta.com/llama/}, 2024.
+\newblock Accessed: 2025-06-18.
+
+\bibitem{jun2023shapegeneratingconditional3d}
+Heewoo Jun and Alex Nichol.
+\newblock Shap-e: Generating conditional 3d implicit functions, 2023.
+
+\bibitem{pmlr-v139-radford21a}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language supervision.
+\newblock In Marina Meila and Tong Zhang, editors, {\em Proceedings of the 38th International Conference on Machine Learning}, volume 139 of {\em Proceedings of Machine Learning Research}, pages 8748--8763. PMLR, 18--24 Jul 2021.
+
+\end{thebibliography}
