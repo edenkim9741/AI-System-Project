@@ -46,6 +46,7 @@ output_file = "/home/eden/Data/JNU/AI-System/furniture_data.pkl"
 # pickle로 저장된 데이터를 불러오기
 with open(output_file, 'rb') as f:
     furniture_data = pickle.load(f)
+
     
 
 # 결과 예시 출력
@@ -59,6 +60,7 @@ from shap_e.diffusion.sample import sample_latents
 from shap_e.util.data_util import load_or_create_multimodal_batch
 from shap_e.util.image_util import load_image
 from shap_e.diffusion.gaussian_diffusion import diffusion_from_config
+
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 

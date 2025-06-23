@@ -1,4 +1,18 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{opencv_library}
+G.~Bradski.
+\newblock {The OpenCV Library}.
+\newblock {\em Dr. Dobb's Journal of Software Tools}, 2000.
+
+\bibitem{jun2023shapegeneratingconditional3d}
+Heewoo Jun and Alex Nichol.
+\newblock Shap-e: Generating conditional 3d implicit functions, 2023.
+
+\bibitem{pmlr-v139-radford21a}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language supervision.
+\newblock In Marina Meila and Tong Zhang, editors, {\em Proceedings of the 38th International Conference on Machine Learning}, volume 139 of {\em Proceedings of Machine Learning Research}, pages 8748--8763. PMLR, 18--24 Jul 2021.
 
 \bibitem{todayhouse}
 {오늘의집}.
@@ -35,13 +49,9 @@ Hugo Touvron, Louis Martin, Kevin~El Boukkouri, et~al.
 \newblock \url{https://ai.meta.com/llama/}, 2024.
 \newblock Accessed: 2025-06-18.
 
-\bibitem{jun2023shapegeneratingconditional3d}
-Heewoo Jun and Alex Nichol.
-\newblock Shap-e: Generating conditional 3d implicit functions, 2023.
-
-\bibitem{pmlr-v139-radford21a}
-Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever.
-\newblock Learning transferable visual models from natural language supervision.
-\newblock In Marina Meila and Tong Zhang, editors, {\em Proceedings of the 38th International Conference on Machine Learning}, volume 139 of {\em Proceedings of Machine Learning Research}, pages 8748--8763. PMLR, 18--24 Jul 2021.
+\bibitem{li2022blip}
+Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi.
+\newblock Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation.
+\newblock In {\em International conference on machine learning}, pages 12888--12900. PMLR, 2022.
 
 \end{thebibliography}
